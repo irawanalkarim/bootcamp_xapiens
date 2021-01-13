@@ -1,0 +1,32 @@
+1.Javascript adalah bahasa pemrograman yang high level language , bahasa scripting / bahasa yang tertanam pada program yang lebih besar ,interpreted language / bahasa pemrograman yang dijalankan menggunakan interpreter 
+2.Aturan dalam penulisan kode javascript : 
+	1.case sensitive 
+		artinya javascript membedakan huruf kapital dan kecil 
+
+	2.semicolon 
+		penggunaan semicolon(;) dalam javascript bersifat optional 
+
+	3.whitespace
+		yang termasuk ke dalam whitespace yaitu space, tab, dan enter , karakter-karakter tersebut jika digunakan akan menghasilkan ruang kosong
+
+	4.identifier 
+		Aturan penulisan identifier dalam javascript yaitu, Karakter pertama harus diawali dengan huruf, tanda dolar($), underscore(_), dan Karakter kedua dan seterusnya bisa ditulis dengan kombinasi huruf, angka, underscore, tanda dollar.
+
+	5.komentar 
+		komentar digunakan untuk memberi catatan dalam mendeskripsikan kode javascript tetapi tidak ikut diproses pada saat kompilasi program
+		// komentar untuk satu baris
+		
+		/* komentar lebih 
+		dari satu baris */
+
+	6.reserved word 
+		Reserved Word merupakan kata-kata khusus yang 
+		dilarang atau tidak boleh digunakan sebagai 
+		identifier/nama variabel atau fungsi. 
+		misalnya, beberapa reserved word 
+		seperti 'boolean' dan 'else', 
+		dua kata reserved word tersebut 
+		tidak boleh digunakan 
+		untuk membuat nama variabel. 
+		berikut beberapa reserved word yang 
+		ada di dalam javascript.

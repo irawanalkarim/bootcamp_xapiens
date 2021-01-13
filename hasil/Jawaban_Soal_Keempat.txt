@@ -1,0 +1,17 @@
+1.Deklarasi batas bawah = 1, Batas atas = 100 , random_num = 0, tebakan = 0
+2.Simpan nilai acak ke dalam variabel random_num
+3.Tampilkan pesan "Masukkan angka "
+4.Jika user menginput huruf atau simbol , tampilkan pesan 
+	"Hanya boleh menginput angka 1 - 100"
+5.Jika user menginput angka < 1 atau angka > 100 , tampilkan pesan 
+	"Hanya boleh menginput angka 1 - 100"
+6.Jika user menginput angka 1 - 100 , simpan inputan ke dalam variabel tebakan 
+7.Jika tebakan != random_num , Tampilkan pesan "Tebakan salah  ," 
+	lakukan langkah no 3 
+8.Jika tebakan = random_num , Tampilkan pesan "Tebakan benar " , 
+	panggil fungsi mainLagi 
+9.Deklarasi fungsi mainLagi , deklarasi variabel lokal isMainAgain
+	Tampilkan pesan "Apakah anda mau main lagi ? Y/N" 
+	simpan inputan user sebagai variabel isMainAgain 
+10.Jika isMainAgain = Y , lakukan langkah no 2 
+11.Jika isMainAgain = N , program selesai 
